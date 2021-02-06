@@ -5,7 +5,7 @@
 Minimal syntax highlighting theme for VS Code.  
 Allows you to set your own colors.
 
-Based on [this](https://ctrl-c.us/posts/highlight.html) philosophy.
+Based on [this](https://ctrl-c.us/posts/highlight.html) and [this](https://peppe.rs/posts/color_conundrum/).
 
 The colors are upto you. You try to limit your usage of bright colors to 3-4 colors.
 * Primary
