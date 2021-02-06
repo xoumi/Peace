@@ -35,6 +35,8 @@ $ npm i -g nodemon
 $ nodemon src/index.js
 ```
 ## Screenshots
+Below screenshots also use [customizeUI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui).  
+Relevant css and VSCode settings should be in my [dotfiles](https://github.com/xoumi/Dotfiles).
 
 ![React code](images/scrot1.png)
 ![CSS code](images/scrot2.png)
