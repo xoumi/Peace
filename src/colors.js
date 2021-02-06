@@ -1,4 +1,4 @@
-const { fg, fgd, bg, bgl, hl, transparent, secondary, primary, accent} = require('./palette')
+const { fg, fgd, fgdd, bg, bgl, hl, transparent, secondary, primary, accent} = require('./palette')
 
 module.exports = {
   //Editor
@@ -9,6 +9,7 @@ module.exports = {
   "editorGutter.background": bg,
   "editorWidget.background": bgl + 'F1',
   "editorWidget.border": transparent,
+  "editorGroup.border": bgl,
 
   //Badges
   "badge.background": transparent,
@@ -48,6 +49,7 @@ module.exports = {
   "list.inactiveSelectionBackground": bgl,
   "list.hoverForeground": primary,
   "list.hoverBackground": transparent,
+  "list.deemphasizedForeground": fgdd,
 
   //Panel
   "panel.border": transparent,
